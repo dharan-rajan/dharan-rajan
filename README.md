@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Dharan</h1>
-<h3 align="left">A passionate Full Stack Developer with over 5 years of experience in building B2B SaaS products.</h3>
+<h3 align="left">Full Stack Developer with over 5 years of experience in building B2B SaaS products.</h3>
 
 - 🔭 Worked for companies **Zoho and Zenefits**
 
