@@ -3,7 +3,7 @@
 
 - 🔭 Worked for companies **Zoho and Zenefits**
 
-- 🌱 Currently learning **AWS, Docker and some Python libraries**
+- 🌱 Currently learning **Core Statistics and python implementations of it**
 
 - 👯 Looking to collaborate on **Open source projects that focuses on SaaS**
 
