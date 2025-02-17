@@ -3,9 +3,9 @@
 
 - 🔭 Worked for companies **Zoho and Zenefits**
 
-- 🌱 Currently learning **Core Statistics and python implementations of it**
+- 🌱 Currently learning **Core Statistics, LLM, Vector Databases**
 
-- 👯 Looking to collaborate on **Open source projects that focuses on SaaS**
+- 👯 Looking to collaborate on **Open source projects that focuses on AI and SaaS**
 
 - 💬 Ask me about **Full Stack Development, DSA and System Design :)**
 
