@@ -3,7 +3,7 @@
 
 - 🔭 Worked for companies **Zoho and Zenefits**
 
-- 🌱 Currently learning **Core Statistics, LLM, Vector Databases**
+- 🌱 Currently learning **Core Statistics, LLM, RAG, Vector Databases**
 
 - 👯 Looking to collaborate on **Open source projects that focuses on AI and SaaS**
 
